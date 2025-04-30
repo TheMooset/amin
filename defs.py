@@ -1,0 +1,2 @@
+def outPutSomething():
+    return "damn"
